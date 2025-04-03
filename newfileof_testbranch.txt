@@ -1,6 +1,13 @@
 This is new file added in test branch
 
 
+<<<<<<< HEAD
 add another marketing message section 
 
 added some new content for in marketing mail
+
+new bug fixed   
+
+
+another bug fixed
+>>>>>>> test
