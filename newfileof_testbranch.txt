@@ -2,3 +2,5 @@ This is new file added in test branch
 
 
 add another marketing message section 
+
+added some new content for in marketing mail
