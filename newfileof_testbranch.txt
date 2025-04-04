@@ -9,4 +9,4 @@ Alok code:
 Sanjeet code:
 - Worked on further Backend/Docker setup
 
-shrijeet code:
+vedant code:
