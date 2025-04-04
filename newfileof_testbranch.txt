@@ -11,3 +11,6 @@ Sanjeet code:
 
 vedant code:
 - Maybe worked on flutter app developement
+
+Ameya code:
+- Worked on java developement
