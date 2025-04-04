@@ -1,7 +1,10 @@
 This is new developement branch
 
 Shreyash code:
+- Worked on creating Git Pipe-Line @Alok
 
 Alok code:
- 
+ - Worked with @Shreyash to create Git Pipe-Line
+
 Sanjeet code:
+- Worked on further Backend/Docker setup 
