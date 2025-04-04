@@ -7,4 +7,6 @@ Alok code:
  - Worked with @Shreyash to create Git Pipe-Line
 
 Sanjeet code:
-- Worked on further Backend/Docker setup 
+- Worked on further Backend/Docker setup
+
+shrijeet code:
